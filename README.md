@@ -1,2 +1,1 @@
-# algorithm
-常用算法
+# algorithm code
